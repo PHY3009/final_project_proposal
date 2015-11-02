@@ -17,7 +17,7 @@ This study will examine data on conflict and violence in African
 countries as well as regional rainfall, temperature, crop yield and 
 weather. By examining empirical evidence, rather than speculating, this 
 study hopes to gain additional insight into how climate change will 
-affect stability in developing countries (Nord†s and Gleditsch). Given 
+affect stability in developing countries (Nordas and Gleditsch). Given 
 the findings of previous studies, I predict there will be a correlation 
 between extreme climate and conflict. 
 
@@ -54,7 +54,7 @@ ScienceDirect. Web. 2 Nov. 2015. Climate Change and Conflict.
 Hendrix, Cullen S., and Idean Salehyan. Climate Change, Rainfall, and 
 Social Conflict in Africa. Journal of Peace Research 49.1 (2012): 3550. 
 jpr.sagepub.com. Web. 2 Nov. 2015.
-Nord†s, Ragnhild, and Nils Petter Gleditsch. Climate Change and 
+Nordas, Ragnhild, and Nils Petter Gleditsch. Climate Change and 
 Conflict. Political Geography 26.6 (2007): 627638. ScienceDirect. Web. 2 
 Nov. 2015. Climate Change and Conflict.
 
