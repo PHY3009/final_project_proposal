@@ -51,9 +51,11 @@ References:
 Barnett, Jon, and W. Neil Adger. Climate Change, Human Security and 
 Violent Conflict. Political Geography 26.6 (2007): 639655. 
 ScienceDirect. Web. 2 Nov. 2015. Climate Change and Conflict.
+
 Hendrix, Cullen S., and Idean Salehyan. Climate Change, Rainfall, and 
 Social Conflict in Africa. Journal of Peace Research 49.1 (2012): 3550. 
 jpr.sagepub.com. Web. 2 Nov. 2015.
+
 Nordas, Ragnhild, and Nils Petter Gleditsch. Climate Change and 
 Conflict. Political Geography 26.6 (2007): 627638. ScienceDirect. Web. 2 
 Nov. 2015. Climate Change and Conflict.
