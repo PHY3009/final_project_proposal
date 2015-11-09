@@ -8,16 +8,16 @@ assumption that resource scarcity, and otherwise extreme conditions have
 a strong influence on the occurrence of conflict. However, determining 
 the causes of conflict is a difficult task. The extent to which 
 different factors (income inequality, social welfare, severe weather, 
-crop yield, etc) affect conflict outcomes is not well understood, and is 
-largely based on speculation (Barnett and Adger). However, climate 
+crop yield, *etc.,*) affect conflict outcomes is not well understood, and is 
+largely based on speculation (Barnett and Adger, **year?**). However, climate 
 change will likely have an effect on rates of violence and conflict, 
 particularly in developing countries which lack disaster and crisis 
-management infrastructure. 
+management infrastructure. **Explain why, this is not obvious**
 This study will examine data on conflict and violence in African 
 countries as well as regional rainfall, temperature, crop yield and 
 weather. By examining empirical evidence, rather than speculating, this 
 study hopes to gain additional insight into how climate change will 
-affect stability in developing countries (Nordas and Gleditsch). Given 
+affect stability in developing countries (Nordas and Gleditsch, **year?**). Given 
 the findings of previous studies, I predict there will be a correlation 
 between extreme climate and conflict. 
 
@@ -30,9 +30,13 @@ have been identified as particularly at risk from climate change
 analyzed together with data on conflict events in those countries. This 
 study is mostly exploration driven, that is the methods of analysis will 
 change significantly based on the visualization of the data. An approach 
-of this type is effective in this context, because of the uncertainty of 
+of this type is effective in this context because of the uncertainty of 
 conflict analysis, and that the extent that climate change and conflict 
-are correlated is unknown. 
+are correlated is unknown. **What methods might you use? Correlation? Also,**
+**a potential caveat about this type of study is that you will likely be able**
+**to show things happen together (*i.e.,* are correlated) but it will not be**
+**possible to say if anything is causative. This is OK and valid, but you need**
+**to be upfront about this.**
 
 Significance:
 	Findings from this study could impact the way climate change is 
@@ -43,9 +47,14 @@ likely suffer the most from changes in climate, because of the lack of
 robust adaptation mechanisms. Additionally, if an economy relies on 
 agriculture for a majority of its economic activity, reduction in crop 
 yield due to climate change could severely harm the wellbeing of 
-individuals in that economy (Hendrix). Once the effects of climate 
+individuals in that economy (Hendrix, **year?**). Once the effects of climate 
 change on these countries is better understood, research should be 
 directed at how to increase the ability of poorer countries to adapt. 
+
+**When discussing outcomes, try to be more specific about how your results will**
+**affect things. If what you predict is true, how might that affect how others**
+**view climate change? What if what you predict is not what you find? What might**
+**happen then?**
 
 References:
 Barnett, Jon, and W. Neil Adger. Climate Change, Human Security and 
